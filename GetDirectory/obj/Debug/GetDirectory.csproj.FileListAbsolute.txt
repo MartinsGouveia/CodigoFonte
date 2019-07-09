@@ -1,0 +1,7 @@
+C:\Users\Uchiha Martins\source\repos\IO\GetDirectory\bin\Debug\GetDirectory.exe.config
+C:\Users\Uchiha Martins\source\repos\IO\GetDirectory\bin\Debug\GetDirectory.exe
+C:\Users\Uchiha Martins\source\repos\IO\GetDirectory\bin\Debug\GetDirectory.pdb
+C:\Users\Uchiha Martins\source\repos\IO\GetDirectory\obj\Debug\GetDirectory.csproj.CoreCompileInputs.cache
+C:\Users\Uchiha Martins\source\repos\IO\GetDirectory\obj\Debug\GetDirectory.exe
+C:\Users\Uchiha Martins\source\repos\IO\GetDirectory\obj\Debug\GetDirectory.pdb
+C:\Users\Uchiha Martins\source\repos\IO\GetDirectory\obj\Debug\GetDirectory.csprojAssemblyReference.cache

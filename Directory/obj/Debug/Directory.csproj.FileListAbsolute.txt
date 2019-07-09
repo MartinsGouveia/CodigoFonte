@@ -1,0 +1,20 @@
+C:\Users\Uchiha Martins\source\repos\IO\Directory\bin\Debug\Directory.exe.config
+C:\Users\Uchiha Martins\source\repos\IO\Directory\bin\Debug\Directory.exe
+C:\Users\Uchiha Martins\source\repos\IO\Directory\bin\Debug\Directory.pdb
+C:\Users\Uchiha Martins\source\repos\IO\Directory\obj\Debug\Directory.csprojAssemblyReference.cache
+C:\Users\Uchiha Martins\source\repos\IO\Directory\obj\Debug\Directory.csproj.CoreCompileInputs.cache
+C:\Users\Uchiha Martins\source\repos\IO\Directory\obj\Debug\Directory.exe
+C:\Users\Uchiha Martins\source\repos\IO\Directory\obj\Debug\Directory.pdb
+D:\Doctrine\repos\IO\Directory\bin\Debug\Directory.exe.config
+D:\Doctrine\repos\IO\Directory\obj\Debug\Directory.exe
+D:\Doctrine\repos\IO\Directory\obj\Debug\Directory.pdb
+D:\Doctrine\repos\IO\Directory\bin\Debug\Directory.exe
+D:\Doctrine\repos\IO\Directory\bin\Debug\Directory.pdb
+D:\Doctrine\repos\IO\Directory\bin\Debug\mscorlib.dll
+D:\Doctrine\repos\IO\Directory\bin\Debug\pt-BR\mscorlib.resources.dll
+D:\Doctrine\repos\IO\Directory\bin\Debug\normidna.nlp
+D:\Doctrine\repos\IO\Directory\bin\Debug\normnfc.nlp
+D:\Doctrine\repos\IO\Directory\bin\Debug\normnfd.nlp
+D:\Doctrine\repos\IO\Directory\bin\Debug\normnfkc.nlp
+D:\Doctrine\repos\IO\Directory\bin\Debug\normnfkd.nlp
+D:\Doctrine\repos\IO\Directory\obj\Debug\Directory.csprojResolveAssemblyReference.cache

@@ -1,0 +1,6 @@
+D:\Doctrine\repos\IO\Environmente\bin\Debug\Environmente.exe.config
+D:\Doctrine\repos\IO\Environmente\bin\Debug\Environmente.exe
+D:\Doctrine\repos\IO\Environmente\bin\Debug\Environmente.pdb
+D:\Doctrine\repos\IO\Environmente\obj\Debug\Environmente.csprojResolveAssemblyReference.cache
+D:\Doctrine\repos\IO\Environmente\obj\Debug\Environmente.exe
+D:\Doctrine\repos\IO\Environmente\obj\Debug\Environmente.pdb
